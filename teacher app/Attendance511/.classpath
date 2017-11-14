@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="app/libs/generic_asynctask-master/AsyncTask/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/libs/generic_asynctask-master/AsyncTask/app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_0678cbf999f149480ca826d35171cd9855603716.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_10d7b29d43d053bafa7754a742e0828d3a2820af.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_2ae37ce284f26721700639844729ff42852466b5.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_303728435438a418f501541c5de61d80d8ef1642.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_377f64e8f7efd5d330e3480ad19c6eda25ae5fad.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_379417bc3eec89600285d41185c9bd9b0b9744de.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_42ae40f1f9ad4552219cd651031de190e3219462.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_88128614504b1b9484aa55d4aae6afda5eff515e.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_b8822dcaeb07a4a7795d1dd6757321febd8256c4.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_da81bd2669aa50ddf308ef61a22bc63ca0df2a9a.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_ef64df6460cd39493fd642c47894ae8ab1b57ffc.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_fbb71c6bb62c1974fbfe3e5db31e55e57b31d927.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ea9b62f20779cdd0d0be64249340a00926402346.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/curve25519-java-0.3.0_ea9952936f3a4c47b24df4c67c4c2eb945005ef2.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/debug_760f19fa14fde1fbf332d28546f9cecd39625d42.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/GenAsync_7e007bfabb42f4c0e1cb8096f7bc1fbe247f20e3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_aa9dfdee2773c01909574e5daff1a84b6efe8362.jar"/>
+	<classpathentry kind="lib" path="app/libs/generic_asynctask-master/AsyncTask/app/release/GenAsync.jar"/>
+	<classpathentry kind="lib" path="app/libs/generic_asynctask-master/AsyncTask/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="app/libs/generic_asynctask-master/GenAsync.jar"/>
+	<classpathentry kind="lib" path="build/generated/mockable-android-26.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="app/build/intermediates/classes/debug"/>
+</classpath>
